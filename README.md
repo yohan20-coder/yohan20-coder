@@ -14,6 +14,25 @@
 - <b>Telephone Number/Wa</b>: https://wa.wizard.id/b9921c
 - <b>Email</b> : yohanesardinus@gmail.com
 
+### Education :   
+- <b>2021</b> : Bachelor Degree Of Information System At Universitas Flores
+- <b>2016</b> : Finished Senior Highschool (SMKN 1 Ende)
+- <b>2014</b> : Finished Junior Highschool (SMPK Yos Soedarso)
+- <b>2012</b> : Finished Primary School (SDK Dile)    
+
+### Experience :   
+- <b>Januari 2022</b> : Web developer at Dinas Perdagangan Dan Perindustrian (DISPERINDAG) Kabupaten Ende
+- <b>March - Desember 2021</b> : IT assistant and Web developer at Badan Perencanaan Pembangunan Daerah (BAPPEDA) Kabupaten Ende
+- <b>September 2021 </b> : The training speaker for the making of the Covid 19 Antigen Test Qr Code at Mahardika Ende
+- <b>August - September 2020</b> : IT assistant and Web developer at Kelurahan Rewarangga
+
+### Scientific Writing
+- <b>Skripsi</b> : http://180.250.177.156/1166/
+- <b>Pengabdian Masyarakat : https://bajangjournal.com/index.php/J-ABDI/article/view/374
+
+### My Blog Tutor Programming :   
+  - <b>BlogSpot</b>: https://teknoflo.blogspot.com/
+  - <b>Medium</b>: https://medium.com/@yohanesardinus
 
 <!-- Here are some ideas to get you started:
 
