@@ -2,7 +2,7 @@
 <p align="center"><b>Web Developer</b></p>
 
 <p align="center">
-<img align="middle" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="middle" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="350" />
   
 </p>
 
@@ -12,6 +12,7 @@
 - <b>Gender</b>   : Male
 - <b>Address</b> : Jln. Sam Ratulangi Kec.Ende Timur Kab.Ende
 - <b>Telephone Number/Wa</b>: https://wa.wizard.id/b9921c
+- <b>Email</b> : yohanesardinus@gmail.com
 
 
 <!-- Here are some ideas to get you started:
