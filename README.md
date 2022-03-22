@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to My Portfolio And CV</h2>
+<h2 align="center">Welcome To My Portfolio And CV</h2>
 <p align="center"><b>Web Developer</b></p>
 
 <p align="center">
