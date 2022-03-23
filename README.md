@@ -1,4 +1,4 @@
-<h2 align="center">Welcome To My Portfolio And CV</h2>
+<h2 align="center">Welcome To My Portofolio And CV</h2>
 <p align="center"><b>Web Developer</b></p>
 
 <p align="center">
@@ -24,11 +24,11 @@
 - <b>Januari 2022</b> : Web developer at Dinas Perdagangan Dan Perindustrian (DISPERINDAG) Kabupaten Ende
 - <b>March - Desember 2021</b> : IT assistant and Web developer at Badan Perencanaan Pembangunan Daerah (BAPPEDA) Kabupaten Ende
 - <b>September 2021 </b> : The training speaker for the making of the Covid 19 Antigen Test Qr Code at Mahardika Ende
-- <b>August - September 2020</b> : IT assistant and Web developer at Kelurahan Rewarangga
+- <b>August - September 2020 </b> : IT assistant and Web developer at Kelurahan Rewarangga
 
 ### Scientific Writing
 - <b>Skripsi</b> : http://180.250.177.156/1166/
-- <b>Pengabdian Masyarakat : https://bajangjournal.com/index.php/J-ABDI/article/view/374
+- <b>Pengabdian Masyarakat</b> : https://bajangjournal.com/index.php/J-ABDI/article/view/374
 
 ### My Blog Tutor Programming :   
   - <b>BlogSpot</b>: https://teknoflo.blogspot.com/
