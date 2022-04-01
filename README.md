@@ -28,7 +28,8 @@
 
 ### Scientific Writing
 - <b>Skripsi</b> : http://180.250.177.156/1166/
-- <b>Pengabdian Masyarakat</b> : https://bajangjournal.com/index.php/J-ABDI/article/view/374
+- <b>Artikel Pengabdian Masyarakat</b> : https://bajangjournal.com/index.php/J-ABDI/article/view/374
+- <b>Artikel Penelitian Sinta 2</b> : https://journal.universitasbumigora.ac.id/index.php/matrik/article/view/1443
 
 ### My Blog Tutor Programming :   
   - <b>BlogSpot</b>: https://teknoflo.blogspot.com/
