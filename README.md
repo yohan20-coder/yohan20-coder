@@ -11,7 +11,7 @@
 - <b>Place and Date Birth</b>    : Surabaya, 20 october 1997
 - <b>Gender</b>   : Male
 - <b>Address</b> : Jln. Sam Ratulangi Kec.Ende Timur Kab.Ende
-- <b>Telephone Number/Wa</b>: https://wa.wizard.id/b9921c
+- <b>Telephone Number/Wa</b>: 082357528129
 - <b>Email</b> : yohanesardinus@gmail.com
 
 ### Education :   
@@ -21,6 +21,7 @@
 - <b>2012</b> : Finished Primary School (SDK Dile)    
 
 ### Experience :   
+- <b>Desember 2022 - Present </b> : Assistant Lecturer at the Faculty of Information Technology, University of Flores
 - <b>Januari 2022</b> : Web developer at Dinas Perdagangan Dan Perindustrian (DISPERINDAG) Kabupaten Ende
 - <b>March - Desember 2021</b> : IT assistant and Web developer at Badan Perencanaan Pembangunan Daerah (BAPPEDA) Kabupaten Ende
 - <b>September 2021 </b> : The training speaker for the making of the Covid 19 Antigen Test Qr Code at Mahardika Ende
@@ -30,9 +31,10 @@
 - <b>Skripsi</b> : http://180.250.177.156/1166/
 - <b>Artikel Pengabdian Masyarakat</b> : https://bajangjournal.com/index.php/J-ABDI/article/view/374
 - <b>Artikel Penelitian Sinta 2</b> : https://journal.universitasbumigora.ac.id/index.php/matrik/article/view/1443
+- <b>Artikel Penelitian Sinta 3</b> : https://ojs2.pnb.ac.id/index.php/MATRIX/article/view/853
 
 ### My Blog Tutor Programming :   
-  - <b>BlogSpot</b>: https://teknoflo.blogspot.com/
+<!--   - <b>BlogSpot</b>: https://teknoflo.blogspot.com/ -->
   - <b>Medium</b>: https://medium.com/@yohanesardinus
 
 <!-- Here are some ideas to get you started:
